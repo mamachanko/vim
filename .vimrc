@@ -7,7 +7,7 @@ set autoindent
 set shiftround 
 set tabstop=4
 set shiftwidth=4
-set softtabstop=4
+set expandtab
 set showmode
 set hlsearch
 set scrolloff=3
